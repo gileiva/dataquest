@@ -13,3 +13,17 @@ Thanks. Gi"
 * Python 3
 * Pandas
 * Numpy
+
+## How Run
+
+####With Venv
+
+	#Activate your Virtual Enviroment
+	pip3 freeze > requirements.txt
+	python3 main.py
+
+
+####With Docker
+..Coming soon..
+
+
