@@ -18,10 +18,12 @@ Thanks. Gi"
 
 ####With Venv
 
-	#Activate your Virtual Enviroment
-	pip3 freeze > requirements.txt
-	python3 main.py
-
+- git clone
+- cd dataquest
+- python3 -m venv env
+- source env/bin/activate
+- pip3 install -r requirements.txt
+- python3 main.py
 
 ####With Docker
 ..Coming soon..
